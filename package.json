@@ -1,18 +1,18 @@
 {
   "name": "qw79-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "vip999หวย✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"vip999หวย",
-"เว็บหวยเศรษฐี",
-"เว็บ lottovip",
-"แอพแทงหวยฮานอย",
-"สมัครสมาชิก lottovip"
-],
+  "version": "0.2.0",
+  "description": "vip999หวย✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "vip999หวย",
+    "เว็บหวยเศรษฐี",
+    "เว็บ lottovip",
+    "แอพแทงหวยฮานอย",
+    "สมัครสมาชิก lottovip"
+  ],
   "repository": "https://github.com/setteebet/qw79-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
